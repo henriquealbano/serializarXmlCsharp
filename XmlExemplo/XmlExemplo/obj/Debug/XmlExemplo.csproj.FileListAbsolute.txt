@@ -1,0 +1,10 @@
+C:\Lab\XmlExemplo\XmlExemplo\bin\Debug\XmlExemplo.exe.config
+C:\Lab\XmlExemplo\XmlExemplo\bin\Debug\XmlExemplo.exe
+C:\Lab\XmlExemplo\XmlExemplo\bin\Debug\XmlExemplo.pdb
+C:\Lab\XmlExemplo\XmlExemplo\obj\Debug\XmlExemplo.csprojAssemblyReference.cache
+C:\Lab\XmlExemplo\XmlExemplo\obj\Debug\XmlExemplo.Form1.resources
+C:\Lab\XmlExemplo\XmlExemplo\obj\Debug\XmlExemplo.Properties.Resources.resources
+C:\Lab\XmlExemplo\XmlExemplo\obj\Debug\XmlExemplo.csproj.GenerateResource.cache
+C:\Lab\XmlExemplo\XmlExemplo\obj\Debug\XmlExemplo.csproj.CoreCompileInputs.cache
+C:\Lab\XmlExemplo\XmlExemplo\obj\Debug\XmlExemplo.exe
+C:\Lab\XmlExemplo\XmlExemplo\obj\Debug\XmlExemplo.pdb

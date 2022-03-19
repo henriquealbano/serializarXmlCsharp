@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CATALOG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PLANT>
+    <COMMON>Bloodroot</COMMON>
+    <BOTANICAL>Sanguinaria canadensis</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$2.44</PRICE>
+    <AVAILABILITY>031599</AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>teste</COMMON>
+    <BOTANICAL>teste</BOTANICAL>
+    <ZONE>teste</ZONE>
+    <LIGHT>teste</LIGHT>
+    <PRICE>teste</PRICE>
+    <AVAILABILITY>099</AVAILABILITY>
+  </PLANT>
+</CATALOG>
